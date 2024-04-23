@@ -1,7 +1,7 @@
 # Weather forecast Chrome extension
 
 - This Chrome extension desgin for computer user
-- This data get from "Open Weather" api with every 15mins upadte
+- This data get from "Open Weather" api with every 15mins upadte<br/>
   <img src="https://raw.githubusercontent.com/Danwwwww/Project/main/image/CE1.png" alt="CE1" width="auto" height="600">
 - Press "change city" to search
 - <br/>
