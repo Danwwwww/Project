@@ -1,0 +1,181 @@
+* {
+  text-align: center;
+}
+
+html {
+  height: 100%;
+  width: 100%;
+}
+
+.title {
+  background-color: white;
+  padding: 5px 10px;
+  font-size: 30px;
+  border-radius: 10px;
+}
+
+.topBar {
+  display: flex;
+  flex-wrap: wrap;
+  width: 70%;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.button {
+  width: 60px;
+  height: 20px;
+  border: 1px solid black;
+  font-size: 15px;
+  border-radius: 20px;
+  padding: 5px 10px;
+  margin: 5px 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#KTL {
+  border: 2px solid #7ed957;
+  color: #7ed957;
+}
+
+#KTL:hover {
+  background-color: #7ed957;
+  color: white;
+}
+
+#ISL {
+  border: 2px solid #004aad;
+  color: #004aad;
+}
+
+#ISL:hover {
+  background-color: #004aad;
+  color: white;
+}
+
+#TWL {
+  border: 2px solid #ff3131;
+  color: #ff3131;
+}
+
+#TWL:hover {
+  background-color: #ff3131;
+  color: white;
+}
+
+#SIL {
+  border: 2px solid #cbcd09;
+  color: #cbcd09;
+}
+
+#SIL:hover {
+  background-color: #cbcd09;
+  color: white;
+}
+
+#TCL {
+  border: 2px solid #f6943d;
+  color: #f6943d;
+}
+
+#TCL:hover {
+  background-color: #f6943d;
+  color: white;
+}
+
+#EAL {
+  border: 2px solid #5ce1e6;
+  color: #5ce1e6;
+}
+
+#EAL:hover {
+  background-color: #5ce1e6;
+  color: white;
+}
+
+#TML {
+  border: 2px solid #8d6019;
+  color: #8d6019;
+}
+
+#TML:hover {
+  background-color: #8d6019;
+  color: white;
+}
+
+#AEL {
+  border: 2px solid #3d9ea0;
+  color: #3d9ea0;
+}
+
+#AEL:hover {
+  background-color: #3d9ea0;
+  color: white;
+}
+
+#TKL {
+  border: 2px solid #8d45ab;
+  color: #8d45ab;
+}
+
+#TKL:hover {
+  background-color: #8d45ab;
+  color: white;
+}
+
+.button {
+  background-color: white;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  height: 100vh;
+  background-image: url("https://businessyuen.com/wp-content/uploads/2021/10/TrainFullPack_P1.jpg");
+  background-repeat: repeat;
+  background-size: cover;
+}
+
+.containerUp,
+.containerDown {
+  width: 400px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+  border-radius: 15px;
+  background-color: white;
+}
+
+.station {
+  width: 160px;
+  height: auto;
+  border-radius: 10px;
+  margin: 10px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.station > * {
+  padding: 5px 2px;
+}
+
+.route {
+  background-color: white;
+  padding: 5px;
+  border-radius: 10px;
+}
+
+.time {
+  background-color: white;
+  padding: 5px;
+  margin-top: 15px;
+  min-height: 20px;
+  min-width: 300px;
+  border-radius: 10px;
+}

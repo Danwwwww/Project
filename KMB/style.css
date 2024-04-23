@@ -1,0 +1,144 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  margin: 0;
+  background-color: #c3defa;
+}
+
+* {
+  font-family: "Noto Sans TC", sans-serif;
+}
+
+.kmbImg {
+  width: 27%;
+  padding: 7px 0;
+  background-color: white;
+  border-radius: 10px;
+}
+
+.directCtner {
+  width: 76%;
+  min-height: 70px;
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+  margin-top: 5%;
+  padding: 3% 3%;
+  border-radius: 15px;
+  font-size: 25px;
+  background-color: white;
+  background-image: url(./bus.png);
+  background-repeat: no-repeat;
+  background-position: 5% 50%;
+}
+
+.directBtn {
+  border: 1px black solid;
+  background-color: white;
+  padding: 2%;
+  margin: 2%;
+  border-radius: 10px;
+  font-size: 30px;
+  box-shadow: inset -3px -3px 3px 1px rgba(0, 0, 0, 0.3);
+  cursor: pointer;
+}
+
+input {
+  font-size: 20px;
+  width: 30%;
+  border-radius: 10px;
+  box-shadow: inset 0 0 10px 2px rgba(0, 0, 0, 0.4);
+  border: none;
+  text-align: center;
+}
+.error {
+  padding: 10px;
+  font-size: 20px;
+}
+
+button {
+  font-size: 16px;
+  width: 20%;
+  border-radius: 10px;
+  background-color: white;
+  box-shadow: inset -3px -3px 3px 1px rgba(0, 0, 0, 0.3);
+  cursor: pointer;
+}
+
+.top {
+  display: flex;
+  justify-content: space-evenly;
+  width: 100%;
+  padding: 5% 0;
+  padding-top: 10%;
+  border-bottom: 10px #e42127 solid;
+  background-color: #c3defa;
+  position: sticky;
+  top: 0px;
+}
+
+.stopCtner {
+  display: flex;
+  flex-direction: column;
+  background-color: white;
+  align-items: flex-start;
+  height: 55vh;
+  width: 80%;
+  overflow: scroll;
+  scrollbar-color: ;
+  margin: 20px 0;
+  border-radius: 20px;
+  padding: 10px;
+  box-shadow: inset -1px -1px 10px 10px rgba(0, 0, 0, 0.3);
+}
+
+.stopDiv {
+  width: 100%;
+  padding: 15px 0;
+  font-size: 30px;
+  border-radius: 10px;
+  border-bottom: 1px black solid;
+  cursor: pointer;
+}
+
+.arrivalTime {
+  display: none;
+  flex-direction: column;
+  align-items: stretch;
+  justify-content: space-between;
+  width: 100%;
+  transition: all 2s;
+}
+
+.timeCtner {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  width: 100%;
+  background-color: rgb(232, 243, 255);
+  border-radius: 10px;
+  font-size: 25px;
+  margin: 1px 0;
+  border-bottom: 2px solid #15406e;
+}
+
+.timeDiv {
+  padding: 10px 22px;
+  font-size: 25px;
+  min-width: 20%;
+}
+
+.loading {
+  padding: 5px;
+  display: none;
+  font-size: 20px;
+  color: #000000;
+}
+
+button:active,
+.directBtn:active {
+  box-shadow: inset 5px 5px -10px -10px rgba(0, 0, 0, 0.5);
+}
