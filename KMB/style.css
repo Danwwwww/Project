@@ -142,3 +142,18 @@ button:active,
 .directBtn:active {
   box-shadow: inset 5px 5px -10px -10px rgba(0, 0, 0, 0.5);
 }
+
+@media screen and (min-width: 600px) {
+  .top {
+    padding: 2% 5%;
+  }
+
+  .kmbImg {
+    width: 15%;
+  }
+
+  .directCtner {
+    margin-top: 2%;
+    padding: 2%;
+  }
+}
