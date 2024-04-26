@@ -4,7 +4,7 @@ body {
   align-items: center;
   flex-direction: column;
   margin: 0;
-  background-color: #c3defa;
+  background-color: #52a7ff;
 }
 
 * {
@@ -61,7 +61,7 @@ input {
 
 button {
   font-size: 16px;
-  width: 20%;
+  width: 25%;
   border-radius: 10px;
   background-color: white;
   box-shadow: inset -3px -3px 3px 1px rgba(0, 0, 0, 0.3);
@@ -73,9 +73,9 @@ button {
   justify-content: space-evenly;
   width: 100%;
   padding: 5% 0;
-  padding-top: 10%;
+  padding-top: 7%;
   border-bottom: 10px #e42127 solid;
-  background-color: #c3defa;
+  background-color: #52a7ff;
   position: sticky;
   top: 0px;
 }
@@ -136,25 +136,4 @@ button {
   display: none;
   font-size: 20px;
   color: #000000;
-}
-
-button:active,
-.directBtn:active {
-  box-shadow: inset 5px 5px -10px -10px rgba(0, 0, 0, 0.5);
-}
-
-@media screen and (min-width: 600px) {
-  .top {
-    padding: 2% 5%;
-  }
-
-  .kmbImg {
-    width: 250px;
-    height: 90px;
-  }
-
-  .directCtner {
-    margin-top: 2%;
-    padding: 2%;
-  }
 }
