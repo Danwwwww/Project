@@ -51,7 +51,7 @@
 ![burger3](https://raw.githubusercontent.com/Danwwwww/Project/main/image/Burger3.png)
 * They can have some modify of the burger if they want
 ![burger4](https://github.com/Danwwwww/Project/blob/main/image/Burger4.png)
-* They can also custome their own burger when they choose custome made burger with the maxium of 3 piecs of each ingredient
+* They can also custom their own burger when they choose custom-made burger with the maxium of 3 piecs of each ingredient
 ![burger5](https://raw.githubusercontent.com/Danwwwww/Project/main/image/Burger5.png)
 * After the customer click "Add to cart" and press the icon of shopping cart, they will enter the check out page and they can see the modification detail of the burger in each item. They delete the item if they don't want
 ![burger6](https://raw.githubusercontent.com/Danwwwww/Project/main/image/Burger9.png)
