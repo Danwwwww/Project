@@ -8,8 +8,6 @@ export const CartProvider = ({ children }) => {
   const [stage, setStage] = useState("menu");
   const [currencyRate, setCurrencyRate] = useState(1);
   const [currency, setCurrency] = useState("HK$");
-  const apiKey = process.env.REACT_APP_API_KEY;
-  console.log(apiKey);
   const [qty, setQty] = useState(1);
   const [orderNum, setOrderNum] = useState("0000");
   const [currentPage, setCurrentPage] = useState("cart");
@@ -22,11 +20,13 @@ export const CartProvider = ({ children }) => {
     totalPrice: "" * qty,
     image: "",
   });
+  const apiKey = process.env.REACT_APP_API_KEY;
 
   async function currencyData() {
     try {
       const response = await fetch(
-        `https://v6.exchangerate-api.com/v6/${apiKey}/latest/HKD`
+        `https://v6.exchangerate-api.com/v6/${apiKey}/latest/HKD`,
+        { mode: "cors" }
       );
       const data = await response.json();
       let result = data.conversion_rates.USD;
