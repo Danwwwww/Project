@@ -2,22 +2,22 @@
 ### Welcome to my portfolio
 ### let me introduce my project to you!
 
-# 1. MTR arrival time query website
+# 1. MTR Arrival Time Query Website
 * This website get the data from MTR api with leatest update
 * The user can search the arrival time of different station by pressing the button of route. 
 ![mtr1](https://raw.githubusercontent.com/Danwwwww/Project/main/image/MTR1.png)
 ![mtr2](https://raw.githubusercontent.com/Danwwwww/Project/main/image/MTR2.png)
 
-# 2. KMB arrival time query Web App
-* This Web App design for mobile user
+# 2. KMB Arrival Time Query Web App
+* This Web App design for mobile users
 * The realtime data get from KMB api with leatest update
-* The User can check the arrival time of different station by enter the route they want.
+* The User can check the arrival time of different stations by enter the route.
 <img src="https://raw.githubusercontent.com/Danwwwww/Project/main/image/KMB1.png" alt="kmb1" width="auto" height="600">
 
 <img src="https://raw.githubusercontent.com/Danwwwww/Project/main/image/KMB2.png" alt="kmb2" width="auto" height="600">
 
-# 3. Weather forecast Chrome extension
-* This Chrome extension desgin for computer user
+# 3. Weather Forecast Chrome Extension
+* This Chrome extension desgin for computer users
 * This data get from "Open Weather" api with every 15mins upadte
 <img src="https://raw.githubusercontent.com/Danwwwww/Project/main/image/CE1.png" alt="CE1" width="auto" height="600">
 * Press "change city" to search
@@ -36,7 +36,7 @@
 * The Layout of "Graphic" with some animation
 
 <img src="https://raw.githubusercontent.com/Danwwwww/Project/main/image/CE6.png" alt="CE6" width="auto" height="600">
-* Once you turn on the Chrome extension, the rain reminder will shows if tomorrow is rain
+* Once you turn on the Chrome extension, the rain reminder will shows if tomorrow will rain
 
 # 4.Online Burger order website
 * This is a online website design for burger store
