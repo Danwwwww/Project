@@ -5,10 +5,13 @@
 # 1.Telegram Bot of a electric shop
 
 *This is a Telegram Bot design for electric shop
-
+*type /start to start the bot
 ![start](https://github.com/Danwwwww/TgBot/blob/main/video/start.gif)
 
-<img src="https://github.com/Danwwwww/TgBot/blob/main/video/start.gif" alt="start" width="auto" height="300">
+<video width="640" height="360" auto>
+  <source src="(https://github.com/Danwwwww/TgBot/blob/main/video/advKey%2BPrice.mp4)" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 
 
