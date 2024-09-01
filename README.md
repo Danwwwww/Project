@@ -46,7 +46,7 @@ https://github.com/user-attachments/assets/cba50bd1-1745-48fe-bcb0-924eaafdf695
 * /help to open the menu and contact customer service<br>
 ![help](https://github.com/Danwwwww/TgBot/blob/main/video/help.gif)
 
-souce code: [tgBot](https://github.com/Danwwwww/TgBot)
+souce code: [Telegram Bot](https://github.com/Danwwwww/TgBot)
 
 # 2.Online Burger order website
 * This is a online website design for burger store
