@@ -32,7 +32,7 @@
 ![question](https://github.com/Danwwwww/TgBot/blob/main/video/question.gif)
 
 * /allshop to search all shop's information <br>
-![allShop](https://github.com/Danwwwww/TgBot/blob/main/video/shop.gif)
+![allShop](https://github.com/Danwwwww/TgBot/blob/main/video/allShop.gif)
 
 * /shop to search shop by district<br>
 ![shop](https://github.com/Danwwwww/TgBot/blob/main/video/shop.gif)
