@@ -9,10 +9,14 @@
 ![start](https://github.com/Danwwwww/TgBot/blob/main/video/start.gif)
 
 <video width="640" height="360" auto>
-  <source src="(https://github.com/Danwwwww/TgBot/blob/main/video/advKey%2BPrice.mp4)" type="video/mp4">
+  <source src="()" type="video/mp4">
   Your browser does not support the video tag.
 </video>
+<video width="640" height="360" controls autoplay loop muted>
+  <source src="https://github.com/Danwwwww/TgBot/blob/main/video/advKey%2BPrice.mp4" type="video/mp4">
 
+  您的瀏覽器不支持視頻標籤。
+</video>
 
 
 # 2.Online Burger order website
