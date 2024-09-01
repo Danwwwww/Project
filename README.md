@@ -5,10 +5,12 @@
 # 1.Telegram Bot of a electric shop
 
 *This is a Telegram Bot design for electric shop
-<video width="640" height="360" controls>
-  <source src="[your-video-file.mp4](https://github.com/Danwwwww/TgBot/blob/main/video/start.mp4)" type="video/mp4">
-  Your browser does not support the video tag.
-</video
+
+
+
+https://github.com/user-attachments/assets/57f51a9b-cd77-4b88-9685-6fd2b57583af
+
+
 
 # 2.Online Burger order website
 * This is a online website design for burger store
