@@ -6,11 +6,11 @@
 
 * This is a Telegram Bot design for electric shop
 *  /start to start the bot<br>
-![start](https://github.com/Danwwwww/TgBot/blob/main/video/start.gif)
+![start](https://github.com/Danwwwww/TgBot/blob/main/video/start.gif) 
 https://github.com/user-attachments/assets/69b2e1db-da54-432d-aa62-7e46b6401702
 
 *  /product [product id] to search the product infomation by prduct id<br>
-![prduct](https://github.com/Danwwwww/TgBot/blob/main/video/product.gif)
+![prduct](https://github.com/Danwwwww/TgBot/blob/main/video/product.gif) 
 https://github.com/user-attachments/assets/10019bb0-cb29-4515-a559-d77e27f57be1
 
 
