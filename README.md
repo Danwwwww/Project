@@ -6,9 +6,8 @@
 
 *This is a Telegram Bot design for electric shop
 
+![start](https://github.com/Danwwwww/TgBot/blob/main/video/start.gif)
 
-
-https://github.com/user-attachments/assets/57f51a9b-cd77-4b88-9685-6fd2b57583af
 
 
 
